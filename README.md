@@ -1,3 +1,2 @@
-# demo-one
-Name: Samad Mehndi 
-Email: mehndi.samad@tftus.com
+# This is the master branch
+Inner content of the master branch
